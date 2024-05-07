@@ -29,7 +29,7 @@ What is important to realize is that when we plot the function value along the a
 
 The gradient point in the direction that increase the value of the function. The length of the arrows shows the rate of increase.
 
-This is mental picture help explain what is gradient ascent : we follow the arrows, and we always stay in the original input space.
+This mental picture help explain what gradient ascent is : we follow the arrows, and we always stay in the original input space.
 
 In 2d we also notice that although the gradient point towards the maximum, when the curve has an oval shape, the true maximum is not on the line following the gradient. This is why https://en.wikipedia.org/wiki/Conjugate_gradient_method exist.
 
